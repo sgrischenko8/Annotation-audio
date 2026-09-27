@@ -1,0 +1,13 @@
+=== Statistics ===
+Annotation file: examples\owl.tsv
+Audio files: audio_20240619_bird.mp3
+Total number of events: 43
+Number of classes: 3
+Time range of annotations: 0.196s – 100.031s
+Total duration of all events: 79.452s
+
+Statistics by class:
+label  count  total_duration_s  mean_duration_s  min_duration_s  max_duration_s  share_of_labeled_time
+  dog     24            37.470            1.561           0.377           7.248                  0.472
+  Owl     16            14.829            0.927           0.781           1.672                  0.187
+  car      3            27.153            9.051           2.546          16.606                  0.342

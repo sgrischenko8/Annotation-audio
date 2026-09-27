@@ -1,0 +1,4 @@
+label,count,total_duration_s,mean_duration_s,min_duration_s,max_duration_s,share_of_labeled_time
+dog,24,37.47,1.561,0.377,7.248,0.472
+Owl,16,14.829,0.927,0.781,1.672,0.187
+car,3,27.153,9.051,2.546,16.606,0.342
